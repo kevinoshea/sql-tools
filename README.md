@@ -1,1 +1,3 @@
-# sql-tools
+# SQL Tools
+
+Useful scripts for databases
